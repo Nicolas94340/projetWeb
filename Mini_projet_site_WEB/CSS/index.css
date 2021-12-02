@@ -1,0 +1,9 @@
+body {  background: url("http://scharlette.s.c.pic.centerblog.net/21kp11x3.jpg") repeat ; background-size : 100%; background-attachment: fixed; }
+.jumbotron { font-family: arial; font-style: italic; background-color: rgb(58, 181, 255);}
+.btn-block {margin : 10px 10px 10px 10px;}
+a {color : white ;}
+label {color :black ;}
+h1{color : white ;}
+p{color : white; font-size: 20px ; text-align: justify;}
+#black {color :black ;}
+img{width: 500px ; height: 500px ; }

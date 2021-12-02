@@ -1,0 +1,12 @@
+body {background-color: black; background-image : url("images/stade2.jpg"); background-repeat: no-repeat; background-size: 120%;}
+img {width: 800px ; height: 600px; margin : auto; }
+.carousel-inner {height: 450px ;width: 100%; background-color: : rgb(115, 214, 109);}
+p{color : red ; font-size: 20px ; } 
+h3{color : red ; font-size: 20px ; } 
+a {color : white ;}
+p{color : white; text-align: justify ; }
+video {width:320px; height:180px ;}
+.panel {height:0px ; width:350px ;}
+.panel-body  {
+	background: url("http://pluspng.com/img-png/mac-computer-screen-png-pin-apple-inc-clipart-mac-screen-1-1254.png") no-repeat; 
+	background-size: 100%; }
